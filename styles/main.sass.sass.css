@@ -1,0 +1,16 @@
+.top {
+	background: blue;
+	height: 12em;
+}
+
+
+.style {
+	width: 35em;
+	margin-left: 15em;
+	margin-top: 8em;
+}
+
+.bottom {
+	height: 12em;
+	background: grey;
+}
